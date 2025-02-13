@@ -9,15 +9,15 @@ html,body{
 
 }
 .pimg1{
-    background-image:url(../project3/images/image1.jpg) ;
+    background-image:url(./images/image1.jpg) ;
     min-height: 100%;
 }
 .pimg2 {
-    background-image: url(../project3/images/image5.jpg);
+    background-image: url(./images/image5.jpg);
     min-height: 400px;
 }
 .pimg3{
-    background-image: url(../project3/images/image3.jpg);
+    background-image: url(./images/image3.jpg);
     min-height: 400px;
 }
 .pimg1,.pimg2,.pimg3{
